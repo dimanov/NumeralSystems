@@ -14,7 +14,6 @@ class HexToBinary
         Console.WriteLine("This program converts hexadecimal numbers to their binary representation. ");
         Console.Write("Please enter a hexadecimal number \tn= ");
         string strNumber = Console.ReadLine();
-        //double systemBase = 16;
         CovertHexToBinary(strNumber);
         Console.WriteLine();
     }

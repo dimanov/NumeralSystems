@@ -1,9 +1,0 @@
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe.config
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.pdb
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.exe
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\LINQ Demo\10. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.pdb
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\10. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe.config
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\10. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.exe
-C:\Users\dimanov\Documents\Visual Studio 2013\Projects\C# Part II\10. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.pdb

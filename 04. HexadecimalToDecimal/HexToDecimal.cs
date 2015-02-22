@@ -27,7 +27,6 @@ class HexToDecimal
         bool hexDigit = true;
         for (int i = 0; i < digitsList.Count; i++)
         {
-            //Console.Write(symbol);
             switch (digitsList[i])
             {
                 case "1": multiplier = 1; break;
@@ -63,15 +62,5 @@ class HexToDecimal
             }
         }
         Console.WriteLine("The decimal representation of the number is: {0}", sum);
-
-
-
-
-        //{
-
-        //    //Console.WriteLine("{0} * {1}", digitsList[i], Math.Pow(systemBase, i));
-        //    
-        //}
-
     }
 }
